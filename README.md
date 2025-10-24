@@ -255,3 +255,7 @@ interface PokemonDetail extends Pokemon {
 }
 ```
 
+![alt text](screen/Screenshot_4.png)
+![alt text](screen/Screenshot_2.png)
+![alt text](screen/Screenshot_3.png)
+![alt text](screen/Screenshot_4.png)
